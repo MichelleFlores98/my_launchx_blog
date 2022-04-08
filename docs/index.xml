@@ -6,7 +6,22 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje de Michelle Flores</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://michelleflores98.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://michelleflores98.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Todo lo aprendido en mi transcurso de LaunchX</title>
+      <link>https://michelleflores98.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://michelleflores98.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Este curso me ha gustado mucho, he reforzado conoimientos que aprendi en la univerdad además de cosas nuevas. Nunca habia trabajado con Phython y en el Onboarding aprendi un poco de este lenguaje.
+La misión Frontend me gusto bastante, se empezo desde cero y aprendi:
+-HTML.
+-CSS.
+-JavaScript
+-Frameworks (lo que me ha parecido más dificil hasta ahora).
+Asi como también se aprendio un poco de las bases de como ser un diseñador UI/UX, utilizando algunas herramientas de diseño como figma.</description>
+    </item>
+    
     <item>
       <title>Las cultura de un Desarrollador de Software</title>
       <link>https://michelleflores98.github.io/my_launchx_blog/posts/intro/</link>
