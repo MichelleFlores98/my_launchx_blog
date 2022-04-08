@@ -6,11 +6,18 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 
 Para mi la cultura de un Desarrollador de Software se basa principalmente en:
 
--Respeto
--Integridad
--Pasión
--Compromiso
--Transparecia
--Dedicación
--Responsabilidad
--Capacidad de Resolver Problemas y toma de desiciones
+-Respeto.
+
+-Integridad.
+
+-Pasión.
+
+-Compromiso.
+
+-Transparecia.
+
+-Dedicación.
+
+-Responsabilidad.
+
+-Capacidad de Resolver Problemas y toma de desiciones.
